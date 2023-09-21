@@ -45,3 +45,13 @@ img {
   width: 200px;
   height: 200px;
 }
+
+h1{
+  color : yellow;
+  size : 3rem;
+}
+
+.family{
+  display:flex;
+  justify-content: space-around;
+}
